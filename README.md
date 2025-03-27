@@ -1,5 +1,5 @@
 # A Primer for implementing the Post-Quantum Cryptography network 
-- Quantum Safe, Crypto-Agile P2P network for Crypto-Ledgers
+Quantum Safe, Crypto-Agile P2P network for Crypto-Ledgers
 
 ![nist.jpeg](https://github.com/Tatsuru-Kikuchi/PQC/blob/main/NIST2.jpeg)
 
