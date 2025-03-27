@@ -9,3 +9,5 @@ In recent years, there has been a substantial amount of research on quantum comp
 - Another important requirements for the validator is providing a domain validation to all the participants in the Crypto-Ledger network to recognize who runs each validator by claiming both ownership of a validator key and ownership of the domain. 
 
 To enhance the security against future attacks from quantum computers may be implemented by the Post-quantum TLS (PQTLS) which aims to secure the TLS protocol by implementing post-quantum cryptography, which uses quantum algorithms resistant to quantum attack.
+
+
